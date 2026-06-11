@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "role": "admin",
+      "username": "admin@example.com",
+      "password": "admin123"
+    },
+    {
+      "role": "standard",
+      "username": "user@example.com",
+      "password": "user123"
+    },
+    {
+      "role": "locked",
+      "username": "locked@example.com",
+      "password": "locked123"
+    }
+  ]
+}
